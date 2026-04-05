@@ -1,5 +1,7 @@
 # Finio — Finance Dashboard
 
+![Dashboard Preview](./dashboard.jpeg)
+
 A clean, interactive personal finance dashboard built with vanilla HTML/CSS/JS. No frameworks, no build step — just open `index.html` in any browser.
 
 ---
